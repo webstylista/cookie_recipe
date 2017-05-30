@@ -1,0 +1,42 @@
+body {
+  background-color: #FFE;
+  line-height: 1.5em;
+  border: 2px solid black;
+}
+
+img {
+  border: 2px solid black;
+}
+
+h3 {
+  color: #887;
+}
+
+a {
+  color: #900;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+li {padding-left: 1em;}
+
+#container {
+  margin: 0 auto;
+  padding: 10px 30px;
+  width: 640px;
+  background-color: #fff;
+}
+
+footer {
+  margin: 0 auto;
+  padding: 20px 30px;
+  width: 640px;
+  background-color: #887;
+}
+
+footer p {
+  text-align: center;
+}
